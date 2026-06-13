@@ -1,0 +1,28 @@
+{
+  "latestVersion": "28.153",
+  "minSupportedVersion": "28.152",
+  "releaseDate": "2026-06-13",
+  "title": "花花 AI 辅助工具 v28.153",
+  "notes": [
+    "整理开发仓库与公开发布仓库的更新流程",
+    "在线更新源切换到公开发布仓库",
+    "用户只会收到确认发布后的正式版本",
+    "保持 AI 快捷操作、原生投影和导出功能稳定"
+  ],
+  "downloads": {
+    "windows": {
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.153-public/HuaHua_AI_C4D_Tools_v28.153_Windows_Setup.exe",
+      "sha256": "861ffddf13dec40ee9f448f27f05390ce8ba87fdab0b3e07cc7dfb442165d1d6"
+    },
+    "macos": {
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.153-public/HuaHua_AI_C4D_Tools_v28.153_macOS_Installer.zip",
+      "sha256": "184f52c34ab16aec9081bf2e7a0fef114d78d648eee97f7e0877a0d5ff440d09"
+    },
+    "mac": {
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.153-public/HuaHua_AI_C4D_Tools_v28.153_macOS_Installer.zip",
+      "sha256": "184f52c34ab16aec9081bf2e7a0fef114d78d648eee97f7e0877a0d5ff440d09"
+    }
+  },
+  "releasePage": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/tag/ai-c4d-v28.153-public",
+  "forceUpdate": false
+}
