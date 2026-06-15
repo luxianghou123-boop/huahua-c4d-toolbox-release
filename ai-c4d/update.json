@@ -1,28 +1,35 @@
 {
-  "latestVersion": "28.153",
+  "latestVersion": "28.158",
+  "version": "28.158",
   "minSupportedVersion": "28.152",
-  "releaseDate": "2026-06-13",
-  "title": "花花 AI 辅助工具 v28.153",
+  "releaseDate": "2026-06-15",
+  "title": "花花 AI 辅助工具 v28.158",
   "notes": [
-    "整理开发仓库与公开发布仓库的更新流程",
-    "在线更新源切换到公开发布仓库",
-    "用户只会收到确认发布后的正式版本",
-    "保持 AI 快捷操作、原生投影和导出功能稳定"
+    "新增兜底路径预览功能",
+    "新增清除兜底预览功能",
+    "兜底预览使用 HH_FALLBACK_PREVIEW 图层显示",
+    "正式 C4D 导出复用兜底预览路径结果",
+    "修复预览正确但 C4D 导出仍是矩形的问题",
+    "新增反选兜底功能",
+    "普通兜底和反选兜底可分别提取不同黑白区域",
+    "顶部状态栏区分“兜底”和“反选兜底”",
+    "保持厚度、贴图导出、AI 快捷操作、画板导出、检查更新功能不变"
   ],
   "downloads": {
     "windows": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.153-public/HuaHua_AI_C4D_Tools_v28.153_Windows_Setup.exe",
-      "sha256": "861ffddf13dec40ee9f448f27f05390ce8ba87fdab0b3e07cc7dfb442165d1d6"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.158-public/HuaHua_AI_C4D_Tools_v28.158_fallback_preview_reverse_stable_Windows_Setup.exe",
+      "sha256": "080b5a078bb47604a5b90c377fcdd6682170b0feeea691a521a28c587397a699"
     },
     "macos": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.153-public/HuaHua_AI_C4D_Tools_v28.153_macOS_Installer.zip",
-      "sha256": "184f52c34ab16aec9081bf2e7a0fef114d78d648eee97f7e0877a0d5ff440d09"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.158-public/HuaHua_AI_C4D_Tools_v28.158_fallback_preview_reverse_stable_macOS_Installer.zip",
+      "sha256": "1ed3ca9e5280468cbe28942d2da121dc3b02e539e335bcffc3ea36dbdb124c65"
     },
     "mac": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.153-public/HuaHua_AI_C4D_Tools_v28.153_macOS_Installer.zip",
-      "sha256": "184f52c34ab16aec9081bf2e7a0fef114d78d648eee97f7e0877a0d5ff440d09"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.158-public/HuaHua_AI_C4D_Tools_v28.158_fallback_preview_reverse_stable_macOS_Installer.zip",
+      "sha256": "1ed3ca9e5280468cbe28942d2da121dc3b02e539e335bcffc3ea36dbdb124c65"
     }
   },
-  "releasePage": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/tag/ai-c4d-v28.153-public",
+  "checksums": "https://raw.githubusercontent.com/luxianghou123-boop/huahua-c4d-toolbox-release/main/ai-c4d/v28.158/checksums.txt",
+  "releasePage": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/tag/ai-c4d-v28.158-public",
   "forceUpdate": false
 }

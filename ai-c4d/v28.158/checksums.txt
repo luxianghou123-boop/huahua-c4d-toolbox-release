@@ -1,0 +1,7 @@
+Generated: 2026-06-15 10:05:34 
+File: HuaHua_AI_C4D_Tools_v28.158_fallback_preview_reverse_stable_Windows_Setup.exe
+Size: 127762 bytes
+SHA256: 080b5a078bb47604a5b90c377fcdd6682170b0feeea691a521a28c587397a699
+File: HuaHua_AI_C4D_Tools_v28.158_fallback_preview_reverse_stable_macOS_Installer.zip
+Size: 52817 bytes
+SHA256: 1ed3ca9e5280468cbe28942d2da121dc3b02e539e335bcffc3ea36dbdb124c65
