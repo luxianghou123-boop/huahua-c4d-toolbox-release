@@ -1,0 +1,7 @@
+Generated: 2026-06-19 18:29:57
+File: HuaHua_AI_C4D_Tools_v28.186_Windows_Setup.exe
+Size: 150865 bytes
+SHA256: 6e2a756ebad53b331e815362f0f0713ed7ec18575f52c8f0fde800563bd12340
+File: HuaHua_AI_C4D_Tools_v28.186_macOS_Installer.zip
+Size: 74021 bytes
+SHA256: 84aaf2a6bd51d8dd9d631809a2c5c998abdeadd9e154f2c0c4db784f53c94ae6
