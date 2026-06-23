@@ -13,13 +13,13 @@
     "设备数量限制不再由 AI 面板本地拦截",
     "register-device 继续记录 ai_to_c4d_panel 设备历史",
     "保留 10 分钟 heartbeat、核心功能前补验、24 小时离线宽限",
-    "修复 Windows 安装器提示成功但未覆盖用户 CEP 目录的问题",
-    "Windows 安装器会在安装前要求关闭 Illustrator，强制删除用户目录旧插件，复制后校验目标目录版本为 v28.203"
+    "修复 Windows 安装器遇到旧 CEP 目录时要求用户手动删除的问题",
+    "Windows 安装器现在会要求先关闭 Illustrator，自动清理旧用户 CEP 目录；删除失败时自动重命名旧目录，再覆盖安装并校验 v28.203"
   ],
   "downloads": {
     "windows": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.203-public/HuaHua_AI_C4D_Tools_v28.203_win_force_replace.exe",
-      "sha256": "a740b1d575b87e259fd318bb0c3d9c5d96c1b8777ea16547fd7cbdb1f70187cf"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.203-public/HuaHua_AI_C4D_Tools_v28.203_win_auto_clean_install.exe",
+      "sha256": "3f035d8939bab9b2512df664b2d66a511a3ef252f3c8f3280dcc154b754822bd"
     },
     "macos": {
       "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.203-public/HuaHua_AI_C4D_Tools_v28.203_macOS_Installer.zip",

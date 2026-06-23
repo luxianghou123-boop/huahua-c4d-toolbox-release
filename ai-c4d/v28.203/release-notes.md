@@ -8,5 +8,5 @@
 - 设备数量限制不再由 AI 面板本地拦截。
 - register-device 继续记录 ai_to_c4d_panel 设备历史。
 - 保留 10 分钟 heartbeat、核心功能前补验、24 小时离线宽限。
-- 修复 Windows 安装器提示成功但未覆盖用户 CEP 目录的问题。
-- Windows 安装器会在安装前要求关闭 Illustrator，强制删除用户目录旧插件，复制后校验目标目录版本为 v28.203。
+- 修复 Windows 安装器遇到旧 CEP 目录时要求用户手动删除的问题。
+- Windows 安装器现在会要求先关闭 Illustrator，自动清理旧用户 CEP 目录；删除失败时自动重命名旧目录，再覆盖安装并校验 v28.203。
