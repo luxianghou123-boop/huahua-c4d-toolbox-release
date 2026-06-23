@@ -13,12 +13,12 @@
     "设备数量限制不再由 AI 面板本地拦截",
     "register-device 继续记录 ai_to_c4d_panel 设备历史",
     "保留 10 分钟 heartbeat、核心功能前补验、24 小时离线宽限",
-    "补充 Windows exe 安装包下载链接"
+    "修复 Windows 安装包未覆盖用户 CEP 目录导致安装后仍显示旧版本的问题"
   ],
   "downloads": {
     "windows": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.203-public/HuaHua_AI_C4D_Tools_v28.203_Windows_Setup.exe",
-      "sha256": "82522b5d51f41e01db0c5f9b0361369ada92c0d75be181f380d1a6f93a8bd990"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.203-public/HuaHua_AI_C4D_Tools_v28.203_win_userdir_fix.exe",
+      "sha256": "52b812285e42a8015afb7ddb179d7bfda9768e29469c3ddcd00d6f78a911eb2b"
     },
     "macos": {
       "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.203-public/HuaHua_AI_C4D_Tools_v28.203_macOS_Installer.zip",

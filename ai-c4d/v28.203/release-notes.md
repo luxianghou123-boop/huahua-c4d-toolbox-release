@@ -8,4 +8,4 @@
 - 设备数量限制不再由 AI 面板本地拦截。
 - register-device 继续记录 ai_to_c4d_panel 设备历史。
 - 保留 10 分钟 heartbeat、核心功能前补验、24 小时离线宽限。
-- 补充 Windows exe 安装包下载链接。
+- 修复 Windows 安装包未覆盖用户 CEP 目录导致安装后仍显示旧版本的问题。
