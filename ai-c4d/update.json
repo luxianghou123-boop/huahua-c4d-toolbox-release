@@ -1,38 +1,38 @@
 {
-  "latestVersion": "28.238",
-  "version": "28.238",
+  "latestVersion": "28.240",
+  "version": "28.240",
   "minSupportedVersion": "28.152",
   "releaseDate": "2026-07-02",
-  "title": "花花 AI 辅助工具 v28.238",
+  "title": "花花智能建模-AI端 v28.240",
   "notes": [
-    "修复导出完成后 Illustrator 偶发进入假卡死状态，导致无法框选 / 无法正常选择对象的问题",
-    "导出流程增加统一 cleanup，恢复 userInteractionLevel、selection、redraw 和前端 exporting 状态",
-    "导出成功、失败或取消保存窗口后，都会恢复 Illustrator 交互状态",
-    "保留 v28.237 的取消描边厚度状态修复",
-    "保留 v28.236 的 AI 层级导出字段和 v28.235 的描边内孔修复",
-    "不影响贴图路径、授权、CDK、检查更新逻辑"
+    "调整顶部标题布局，移除“AI 到 C4D 制作面板”副标题",
+    "将更新、暗黑、授权状态和版本号移动到标题下方，避免插件名称换行",
+    "插件显示名称统一为“花花智能建模-AI端”",
+    "保留 v28.238 导出后交互恢复修复",
+    "保留 v28.237 取消描边厚度状态修复",
+    "保留 v28.236 AI 层级导出字段和 v28.235 描边内孔修复"
   ],
   "downloads": {
     "windows": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.238/HuaHua_AI_C4D_Tools_v28.238_win_force_install_log.exe",
-      "size": 201215,
-      "fileSize": 201215,
-      "sha256": "45bb0544d89c68d723ebe3d12a27b19090a4cefcec7170376372c93c6524d65c"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.240/HuaHua_AI_C4D_Tools_v28.240_win_force_install_log.exe",
+      "size": 201267,
+      "fileSize": 201267,
+      "sha256": "e0dd91023da1dec32bca665f4b965162530cb1ae4a1159aadc0378f781372afe"
     },
     "macos": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.238/HuaHua_AI_C4D_Tools_v28.238_macOS_Installer.zip",
-      "size": 118552,
-      "fileSize": 118552,
-      "sha256": "0b614f7c365aec91a264392c3e1db819d98a50d70afc3333818f20616e8ccdac"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.240/HuaHua_AI_C4D_Tools_v28.240_macOS_Installer.zip",
+      "size": 118604,
+      "fileSize": 118604,
+      "sha256": "00f2aa206137a3578c63309dbe791bbad2462e599361fdff354aa9b89042b3fb"
     },
     "mac": {
-      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.238/HuaHua_AI_C4D_Tools_v28.238_macOS_Installer.zip",
-      "size": 118552,
-      "fileSize": 118552,
-      "sha256": "0b614f7c365aec91a264392c3e1db819d98a50d70afc3333818f20616e8ccdac"
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.240/HuaHua_AI_C4D_Tools_v28.240_macOS_Installer.zip",
+      "size": 118604,
+      "fileSize": 118604,
+      "sha256": "00f2aa206137a3578c63309dbe791bbad2462e599361fdff354aa9b89042b3fb"
     }
   },
-  "checksums": "https://raw.githubusercontent.com/luxianghou123-boop/huahua-c4d-toolbox-release/main/ai-c4d/v28.238/checksums.txt",
-  "releasePage": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/tag/ai-c4d-v28.238",
+  "checksums": "https://raw.githubusercontent.com/luxianghou123-boop/huahua-c4d-toolbox-release/main/ai-c4d/v28.240/checksums.txt",
+  "releasePage": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/tag/ai-c4d-v28.240",
   "forceUpdate": false
 }
