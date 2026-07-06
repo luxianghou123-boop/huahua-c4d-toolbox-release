@@ -1,0 +1,39 @@
+{
+  "latestVersion": "28.245",
+  "version": "28.245",
+  "minSupportedVersion": "28.152",
+  "releaseDate": "2026-07-06",
+  "title": "花花智能建模-AI端 v28.245",
+  "notes": [
+    "修复单独导出贴图时，如果选择对象带有描边厚度，会额外导出 JSON 文件的问题",
+    "mode=images 现在只导出 PNG / JPG 图片，不再弹 JSON 保存窗口，也不写出 C4D JSON",
+    "完整 JSON 导出逻辑保持不变，仍然支持 JSON + 同级 tex 目录",
+    "保留 v28.244 的贴图导出 undefined 修复",
+    "保留 v28.243 的 fillColor / strokeColor 绑定修复",
+    "保留 v28.242 的多颜色文字导出修复",
+    "保留 v28.241 的多描边色 stroke ring 修复"
+  ],
+  "downloads": {
+    "windows": {
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.245/HuaHua_AI_C4D_Tools_v28.245_win_force_install_log.exe",
+      "size": 205574,
+      "fileSize": 205574,
+      "sha256": "15f8c2b538dbffeeb170931185c7536a82996283f629ba95bc7e7741b3f09d3a"
+    },
+    "macos": {
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.245/HuaHua_AI_C4D_Tools_v28.245_macOS_Installer.zip",
+      "size": 122923,
+      "fileSize": 122923,
+      "sha256": "230a46b237350b28759315bc0a12d097466306da15c484a74a10f8a2b3e05ce4"
+    },
+    "mac": {
+      "url": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/download/ai-c4d-v28.245/HuaHua_AI_C4D_Tools_v28.245_macOS_Installer.zip",
+      "size": 122923,
+      "fileSize": 122923,
+      "sha256": "230a46b237350b28759315bc0a12d097466306da15c484a74a10f8a2b3e05ce4"
+    }
+  },
+  "checksums": "https://raw.githubusercontent.com/luxianghou123-boop/huahua-c4d-toolbox-release/main/ai-c4d/v28.245/checksums.txt",
+  "releasePage": "https://github.com/luxianghou123-boop/huahua-c4d-toolbox-release/releases/tag/ai-c4d-v28.245",
+  "forceUpdate": false
+}
