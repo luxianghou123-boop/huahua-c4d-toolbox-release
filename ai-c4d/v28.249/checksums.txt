@@ -1,0 +1,2 @@
+31b3619b84121ef5f1c0043f794dafeff7ea3b329ad2e6be8aeb2b82eb64251e  ai-c4d/v28.249/HuaHua_AI_C4D_Tools_v28.249_win_force_install_log.exe
+a70f859404e4dc8d657aa2e2147a62149e87853c46a2ecd349d28b828ddbe081  ai-c4d/v28.249/HuaHua_AI_C4D_Tools_v28.249_macOS_Installer.zip
